@@ -2,7 +2,7 @@
 
 Software dev with a focus on ML and Web Development
 
-- 🌱 I’m currently learning _AngularJS_, using _librec-auto_ for recommender experiemnts, and building _Chrome Extensions_
+- 🌱 Currently learning _AngularJS_, using [_librec-auto_](https://github.com/that-recsys-lab/librec-auto.git) for recommender experiments, and building _Chrome Extensions_
 - 💬 Ask me about **Self Tracking**
 
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: ...
+
+that-recsys-lab
 -->
