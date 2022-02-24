@@ -12,9 +12,7 @@ Software dev with a focus on ML and Web Development
   <img height="20" alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </p> -->
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
 
 <!--
 
