@@ -2,7 +2,7 @@
 
 Software dev with a focus on ML and Web Development
 
-- 🌱 I’m currently learning _AngularJS_, using _librec-auto_ for experiemnts, and building _Chrome Extensions_
+- 🌱 I’m currently learning _AngularJS_, using _librec-auto_ for recommender experiemnts, and building _Chrome Extensions_
 - 💬 Ask me about **Self Tracking**
 
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
