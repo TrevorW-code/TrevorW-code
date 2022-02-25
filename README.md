@@ -1,11 +1,12 @@
-### Hi there 👋
+## Hi, I'm Trevor 👋
 
 Software dev with a focus on ML and Web Development
 
 - 🌱 I'm learning Python, JavaScript, Angular, and MySql
-- 🔧 Currently building [FosterSource](https://github.com/blueprintboulder/f21s22-foster-source.git) with _AngularJS_, using [_librec-auto_](https://github.com/that-recsys-lab/librec-auto.git) for recommender experiments, and building self-tracking _Chrome Extensions_
+- 🔧 Currently building [FosterSource](https://github.com/blueprintboulder/f21s22-foster-source.git) with _AngularJS_, using [_librec-auto_](https://github.com/that-recsys-lab/librec-auto.git) for recommender experiments, and self-tracking _Chrome Extensions_
 - 💬 Ask me about **Self Tracking**
 
+### Weekly Coding Stats 📊
 <!--START_SECTION:waka-->
 ```text
 HTML         1 hr 55 mins    █████████████████▒░░░░░░░   69.63 % 
