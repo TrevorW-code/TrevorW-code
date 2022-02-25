@@ -2,7 +2,7 @@
 
 Software dev with a focus on ML and Web Development
 
-- 🌱 I'm learning Python, JavaScript, and **Lisp?**
+- 🌱 I'm learning Python, JavaScript, Angular, and MySql
 - 🔧 Currently building [FosterSource](https://github.com/blueprintboulder/f21s22-foster-source.git) with _AngularJS_, using [_librec-auto_](https://github.com/that-recsys-lab/librec-auto.git) for recommender experiments, and building self-tracking _Chrome Extensions_
 - 💬 Ask me about **Self Tracking**
 
