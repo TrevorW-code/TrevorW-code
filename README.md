@@ -5,6 +5,9 @@ Software dev with a focus on ML and Web Development
 - 🌱 Currently building [FosterSource](https://github.com/blueprintboulder/f21s22-foster-source.git) with _AngularJS_, using [_librec-auto_](https://github.com/that-recsys-lab/librec-auto.git) for recommender experiments, and building self-tracking _Chrome Extensions_
 - 💬 Ask me about **Self Tracking**
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!-- ### 🔧 Tools I Love
 
 <p>
@@ -12,7 +15,7 @@ Software dev with a focus on ML and Web Development
   <img height="20" alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </p> -->
 
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
+
 
 <!--
 
