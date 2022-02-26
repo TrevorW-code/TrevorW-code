@@ -9,8 +9,6 @@ Software dev with a focus on ML and Web Development
 ### Weekly Coding Stats 📊
 <!--START_SECTION:waka-->
 ```text
-From: 18 February, 2022 - To: 25 February, 2022
-
 HTML         1 hr 55 mins    █████████████████▒░░░░░░░   69.63 % 
 SCSS         37 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.64 % 
 JavaScript   10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
