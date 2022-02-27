@@ -17,7 +17,7 @@ TypeScript   1 min           ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-### 🔧 Tools I Love
+### 🔧 Toolbelt
 
 <p>
   <img height="30" alt="Python" src="https://img.shields.io/badge/python-3E6963?&style=for-the-badge&logo=python&logoColor=white"/>
