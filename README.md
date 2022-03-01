@@ -11,12 +11,12 @@ Software dev with a focus on ML and Web Development
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   2 hrs 6 mins    ██████████▓░░░░░░░░░░░░░░   42.16 %
-HTML         2 hrs 1 min     ██████████░░░░░░░░░░░░░░░   40.41 %
-SCSS         37 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 %
-CSS          12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
-TypeScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+JavaScript   2 hrs 18 mins   ██████████░░░░░░░░░░░░░░░   40.40 %
+HTML         2 hrs 1 min     █████████░░░░░░░░░░░░░░░░   35.50 %
+SCSS         37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 %
+JSON         30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 %
+CSS          12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+TypeScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
