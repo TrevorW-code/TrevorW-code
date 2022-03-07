@@ -11,7 +11,7 @@ Software dev with a focus on ML and Web Development
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 February 2022 - To: 06 March 2022
+From: 28 February 2022 - To: 07 March 2022
 
 TypeScript       2 hrs 28 mins   ████████████▓░░░░░░░░░░░░   50.73 %
 HTML             1 hr            █████░░░░░░░░░░░░░░░░░░░░   20.52 %
