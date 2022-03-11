@@ -11,7 +11,7 @@ Software dev with a focus on ML and Web Development
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 March 2022 - To: 10 March 2022
+From: 04 March 2022 - To: 11 March 2022
 
 HTML         1 hr 25 mins    █████████████▒░░░░░░░░░░░   53.99 %
 XML          24 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.58 %
