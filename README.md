@@ -11,14 +11,14 @@ Software dev with a focus on ML and Web Development
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 April 2022 - To: 21 April 2022
+From: 15 April 2022 - To: 22 April 2022
 
-Python       3 hrs 51 mins   ███████████████████▓░░░░░   78.88 %
-XML          32 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
-JSON         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
-Git Config   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
-CSV          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Python       2 hrs 44 mins   ██████████████████▓░░░░░░   74.46 %
+XML          32 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.51 %
+JSON         10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
+Git Config   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+CSV          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+Text         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 ```
 
 <!--END_SECTION:waka-->
