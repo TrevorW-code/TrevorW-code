@@ -2,11 +2,11 @@
 
 Software dev with a focus on ML and Web Development
 
-- 🌱 I'm learning Python, TensorFlow, TypeScript, and Angular
-- 💻 Right now I'm working as an NLP Dev at [**RPA Labs**](https://rpalabs.com/)
-- 🔧 Helped build [FosterSource](https://github.com/blueprintboulder/f21s22-foster-source.git) with _Angular_, using [_librec-auto_](https://github.com/that-recsys-lab/librec-auto.git) for recommender experiments, and self-tracking _Chrome Extensions_
-- 💬 Ask me about **Music Visualizers**
-- 📫 Feel free to reach at <a href="mailto:trevorward001@gmail.com">trevorward001@gmail.com<a>
+- 🌱 Learning Python, TensorFlow, TypeScript, Angular, and React
+- 💻 Working as an NLP Dev at [**RPA Labs**](https://rpalabs.com/) and Researcher at [**That Recommender Systems Lab**](https://github.com/that-recsys-lab)
+- 🔧 Helped build [**FosterSource**](https://github.com/blueprintboulder/f21s22-foster-source.git) with _Angular_
+- 💬 Ask me about Music Visualizations
+- 📫 Feel free to reach at **<a href="mailto:trevorward001@gmail.com">trevorward001@gmail.com<a>**
 
 ### Weekly Coding Stats 📊
 <!--START_SECTION:waka-->
