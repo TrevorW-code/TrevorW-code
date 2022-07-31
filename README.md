@@ -2,7 +2,7 @@
 
 Software dev with a focus on ML and Web Development
 
-- 🌱 Learning C++, Python, TensorFlow, TypeScript, and React
+- 🌱 Learning C++, Python, PyTorch, TensorFlow, TypeScript, and React
 - 💻 Working as an NLP Dev at [**RPA Labs**](https://rpalabs.com/) and Researcher at [**That Recommender Systems Lab**](https://github.com/that-recsys-lab)
 - 🔧 Helped build [**FosterSource**](https://github.com/blueprintboulder/f21s22-foster-source.git) with _Angular_
 - 💬 Ask me about Music Visualizations
