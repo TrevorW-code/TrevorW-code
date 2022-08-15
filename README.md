@@ -12,14 +12,14 @@ Software dev with a focus on ML and Web Development
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 August 2022 - To: 14 August 2022
+From: 08 August 2022 - To: 15 August 2022
 
-YAML         3 hrs 47 mins   ███████▒░░░░░░░░░░░░░░░░░   29.85 %
-Python       2 hrs 45 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.78 %
-CSS          2 hrs 26 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.21 %
-JavaScript   2 hrs 5 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.50 %
-HTML         1 hr 18 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
-Text         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+YAML         3 hrs 47 mins   ███████████░░░░░░░░░░░░░░   44.43 %
+Python       2 hrs 45 mins   ████████░░░░░░░░░░░░░░░░░   32.42 %
+JavaScript   47 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
+CSS          44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
+HTML         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+Text         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 ```
 
 <!--END_SECTION:waka-->
