@@ -12,11 +12,11 @@ Software dev with a focus on ML and Web Development
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 October 2022 - To: 26 October 2022
+From: 20 October 2022 - To: 27 October 2022
 
-Python      26 mins         █████████████████░░░░░░░░   67.58 %
-RMarkdown   10 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.73 %
-YAML        2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
+Python      28 mins         █████████████████▒░░░░░░░   69.64 %
+RMarkdown   10 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.04 %
+YAML        2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
 Git         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
