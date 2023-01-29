@@ -12,12 +12,12 @@ Software dev with a focus on ML and Web Development
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 January 2023 - To: 28 January 2023
+From: 22 January 2023 - To: 29 January 2023
 
-Python   3 hrs 29 mins   ██████████████░░░░░░░░░░░   56.49 %
-YAML     2 hrs 19 mins   █████████▒░░░░░░░░░░░░░░░   37.62 %
-CSV      14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
-JSON     7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+Python   3 hrs 28 mins   ██████████████░░░░░░░░░░░   56.37 %
+YAML     2 hrs 19 mins   █████████▒░░░░░░░░░░░░░░░   37.76 %
+CSV      14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+JSON     7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
 Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
