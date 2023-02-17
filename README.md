@@ -1,9 +1,9 @@
 ## Hi, I'm Trevor 👋
 
-Software dev with a focus on ML and Web Development
+Product Manager with a focus on ML and Web Development
 
-- 🌱 Learning C++, Python, PyTorch, TensorFlow, TypeScript, and React
-- 💻 Working as an NLP Dev at [**RPA Labs**](https://rpalabs.com/) and Researcher at [**That Recommender Systems Lab**](https://github.com/that-recsys-lab)
+- 🌱 Learning Python, PyTorch, TensorFlow, TypeScript, and React
+- 💻 Working as a Product Manager at [**RPA Labs**](https://rpalabs.com/) and Researcher at [**That Recommender Systems Lab**](https://github.com/that-recsys-lab)
 - 🔧 Helped build [**FosterSource**](https://github.com/blueprintboulder/f21s22-foster-source.git) with _Angular_
 - 💬 Ask me about Music Visualizations
 - 📫 Feel free to reach me at **<a href="mailto:trevorward001@gmail.com">trevorward001@gmail.com<a>**
