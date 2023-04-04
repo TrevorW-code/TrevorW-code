@@ -12,7 +12,7 @@ Product Manager with a focus on ML and Web Development
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 March 2023 - To: 03 April 2023
+From: 28 March 2023 - To: 04 April 2023
 
 Markdown     4 hrs 24 mins   █████████████████▒░░░░░░░   68.76 %
 Python       1 hr 13 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.16 %
