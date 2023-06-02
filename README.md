@@ -11,7 +11,7 @@ Product Manager with a focus on ML and Web Development
 ### Weekly Coding Stats 📊
 <!--START_SECTION:waka-->
 
-```text
+```txt
 From: 25 May 2023 - To: 01 June 2023
 
 JSON     4 hrs 22 mins   ███████████████████████▓░   95.30 %
