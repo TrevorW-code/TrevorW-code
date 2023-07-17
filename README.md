@@ -3,7 +3,7 @@
 Product Manager with a focus on ML and Web Development
 
 - 🌱 Learning Python, PyTorch, TensorFlow, TypeScript, and React
-- 💻 Working as a Product Manager at [**Rippey AI**](https://rippey.ai/) and Researcher at [**That Recommender Systems Lab**](https://github.com/that-recsys-lab)
+- 💻 Working as Head of Data Science at [**Rippey AI**](https://rippey.ai/) and Researcher at [**That Recommender Systems Lab**](https://github.com/that-recsys-lab)
 - 🔧 Helped build [**FosterSource**](https://github.com/blueprintboulder/f21s22-foster-source.git) with _Angular_
 - 💬 Ask me about Music Visualizations
 - 📫 Feel free to reach me at **<a href="mailto:trevorward001@gmail.com">trevorward001@gmail.com<a>**
