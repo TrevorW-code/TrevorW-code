@@ -12,7 +12,7 @@ Product Manager with a focus on ML and Web Development
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 July 2023 - To: 05 August 2023
+From: 30 July 2023 - To: 06 August 2023
 
 Other   5 mins          ████████▒░░░░░░░░░░░░░░░░   32.93 %
 CSV     4 mins          ███████▓░░░░░░░░░░░░░░░░░   30.11 %
