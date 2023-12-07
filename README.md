@@ -12,11 +12,13 @@ Product Manager with a focus on ML and Web Development
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 November 2023 - To: 06 December 2023
+From: 30 November 2023 - To: 07 December 2023
 
-Text     1 hr 24 mins    ██████████████▓░░░░░░░░░░   58.10 %
-Python   53 mins         █████████▒░░░░░░░░░░░░░░░   37.20 %
-JSON     6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+Text     1 hr 24 mins    ███████████▓░░░░░░░░░░░░░   46.59 %
+Python   59 mins         ████████▒░░░░░░░░░░░░░░░░   32.97 %
+JSON     35 mins         █████░░░░░░░░░░░░░░░░░░░░   19.77 %
+YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
