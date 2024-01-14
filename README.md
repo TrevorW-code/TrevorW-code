@@ -12,7 +12,7 @@ Product Manager with a focus on ML and Web Development
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 January 2024 - To: 13 January 2024
+From: 07 January 2024 - To: 14 January 2024
 
 Python     2 hrs 48 mins   ████████████████████▓░░░░   82.04 %
 JSON       32 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.91 %
