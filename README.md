@@ -12,13 +12,13 @@ Product Manager with a focus on ML and Web Development
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 January 2024 - To: 15 January 2024
+From: 09 January 2024 - To: 16 January 2024
 
-Python     2 hrs 48 mins   ████████████████████▓░░░░   82.04 %
-JSON       32 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.91 %
-Text       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-Docker     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Python     3 hrs 17 mins   ████████████████████▓░░░░   82.85 %
+JSON       32 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.67 %
+Markdown   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+Text       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Docker     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
