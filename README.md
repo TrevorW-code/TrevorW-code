@@ -12,7 +12,7 @@ Curious Creator
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 January 2024 - To: 20 January 2024
+From: 14 January 2024 - To: 21 January 2024
 
 Python       6 hrs 29 mins   ███████████████████████▓░   95.11 %
 Markdown     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
