@@ -12,13 +12,13 @@ Curious Creator
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 January 2024 - To: 06 February 2024
+From: 31 January 2024 - To: 07 February 2024
 
-Python       7 hrs 38 mins   ███████████████████▒░░░░░   77.15 %
-Docker       34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
-Bash         33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
-YAML         23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
-Text         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+Python       5 hrs 48 mins   █████████████████░░░░░░░░   68.51 %
+JavaScript   1 hr 7 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.35 %
+Docker       32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
+Bash         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+Other        11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
 ```
 
 <!--END_SECTION:waka-->
