@@ -12,13 +12,13 @@ Curious Creator
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 February 2024 - To: 16 February 2024
+From: 10 February 2024 - To: 17 February 2024
 
-Python       7 hrs 52 mins   ███████████████████████▒░   93.17 %
-Bash         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
-CSV          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Python       9 hrs 48 mins   ███████████████████████▒░   92.84 %
+Other        13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+Bash         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+CSV          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
 
 <!--END_SECTION:waka-->
