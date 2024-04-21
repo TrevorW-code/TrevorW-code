@@ -1,8 +1,3 @@
-## Social 🔗
-
-- [**Linkedin**](https://www.linkedin.com/in/trevorward001/)
-- **<a href="mailto:trevorward001@gmail.com">Email<a>**
-
 ## Weekly Waka Stats 📊
 <!--START_SECTION:waka-->
 
