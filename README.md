@@ -2,11 +2,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 August 2024 - To: 20 August 2024
+From: 14 August 2024 - To: 21 August 2024
 
-Python   1 hr 54 mins    ██████████████████████▒░░   89.01 %
-CSV      14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.88 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Python   2 hrs 10 mins   ██████████████████████▒░░   89.72 %
+CSV      14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Bash     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
