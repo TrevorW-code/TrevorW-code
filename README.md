@@ -2,12 +2,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 August 2024 - To: 23 August 2024
+From: 17 August 2024 - To: 24 August 2024
 
-Python     2 hrs 22 mins   ███████████████████▓░░░░░   78.33 %
-Markdown   38 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.17 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Python     1 hr 12 mins    ████████████████▒░░░░░░░░   64.74 %
+Markdown   38 mins         ████████▓░░░░░░░░░░░░░░░░   34.58 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
