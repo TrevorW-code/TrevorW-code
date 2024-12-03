@@ -2,13 +2,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 November 2024 - To: 02 December 2024
+From: 26 November 2024 - To: 03 December 2024
 
-YAML     4 mins          ███████████████████▓░░░░░   78.57 %
-CSV      0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
-Docker   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
-Python   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
-Bash     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+Python       2 hrs 13 mins   ██████████████████████▓░░   90.66 %
+TOML         9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
+Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
 <!--END_SECTION:waka-->
