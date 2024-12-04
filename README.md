@@ -2,13 +2,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 November 2024 - To: 03 December 2024
+From: 27 November 2024 - To: 04 December 2024
 
-Python       2 hrs 13 mins   ██████████████████████▓░░   90.66 %
-TOML         9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
-Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Python       2 hrs 37 mins   █████████████████████░░░░   84.38 %
+CSV          15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
+TOML         9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
