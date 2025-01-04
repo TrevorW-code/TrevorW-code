@@ -2,13 +2,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 December 2024 - To: 03 January 2025
+From: 28 December 2024 - To: 04 January 2025
 
-Python       3 hrs 11 mins   ██████████░░░░░░░░░░░░░░░   39.59 %
-JavaScript   2 hrs 1 min     ██████▒░░░░░░░░░░░░░░░░░░   25.12 %
-CSS          1 hr            ███░░░░░░░░░░░░░░░░░░░░░░   12.43 %
-Other        30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
-Bash         24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+JavaScript   4 hrs 20 mins   █████████▒░░░░░░░░░░░░░░░   37.49 %
+Python       4 hrs 2 mins    ████████▓░░░░░░░░░░░░░░░░   34.83 %
+CSS          1 hr            ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
+Other        30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
+Bash         24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
 ```
 
 <!--END_SECTION:waka-->
