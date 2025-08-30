@@ -2,13 +2,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 August 2025 - To: 29 August 2025
+From: 23 August 2025 - To: 30 August 2025
 
-Python     50 mins         ███████████████████░░░░░░   75.82 %
-CSV        13 mins         █████░░░░░░░░░░░░░░░░░░░░   20.13 %
-Markdown   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
-Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
