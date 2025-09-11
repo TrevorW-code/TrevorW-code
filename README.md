@@ -2,12 +2,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 September 2025 - To: 10 September 2025
+From: 04 September 2025 - To: 11 September 2025
 
-Python   23 mins         ████████████████▓░░░░░░░░   67.06 %
-CSV      11 mins         ███████▓░░░░░░░░░░░░░░░░░   31.14 %
-Other    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-Bash     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Python   23 mins         ████████████████████████▒   97.38 %
+Other    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+Bash     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
 
 <!--END_SECTION:waka-->
